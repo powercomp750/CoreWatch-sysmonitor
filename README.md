@@ -1,4 +1,4 @@
-# CoreWatch
+<h1 align="center">CoreWatch</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/version-Alpha 0.1-gold"> <img src="https://img.shields.io/badge/release-stable-gree"> <a href="https://hits.sh/github.com/powercomp750/CoreWatch-sysmonitor/"><img alt="Hits" src="https://hits.sh/github.com/powercomp750/CoreWatch-sysmonitor.svg?color=fe7d37"/></a> <img src="https://img.shields.io/badge/Platforms-Linux-silver"> <a href="https://github.com/powercomp750/CoreWatch-sysmonitor/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-cyan.svg"/></a>
