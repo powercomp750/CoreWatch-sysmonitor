@@ -32,6 +32,15 @@ Since the application is entirely coded in Python and uses python modules, this 
 
 For other platforms like Windows and Mac, application is very unstable and therefore is decpricted.
 
+## Troubleshooting/issues
+If your text appears just like normal one in splashscreen, not as in above preview, you need to install <code>pyfiglet</code> module on your system.
+```
+pip install pyfiglet
+```
+This issue is seen on some Linux systems where they lack the required module. Even the executable package bundles all modules but this module needs to be installed on running systems too.
+
+If you're facing any other issues regarding this app, report that issue immediately here [Issues](https://github.com/powercomp750/CoreWatch-sysmonitor/issues)
+
 ## Codebase
 Project uses Python3 with following modules
 - <code>psutil</code>
