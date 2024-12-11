@@ -30,6 +30,26 @@ This project is created in modified version of i3-window manager running in Ubun
 I've tested this application on Kali Linux and Linux Mint and it works pretty well there.
 Since the application is entirely coded in Python and uses python modules, this should work fine in other versions of linux. 
 
-Don't 
+For other platforms like Windows and Mac, application is very unstable and therefore is decpricted.
+
+## Codebase
+Project uses Python3 with following modules
+- <code>psutil</code>
+- <code>time</code>
+- <code>curses</code>
+- <code>datetime</code>
+- <code>deque</code>
+- <code>pyfiglet</code>
+- <code>colored</code>
+- <code>subprocess</code>
+
+## Privacy
+No internet, nothing userdata is collected, this is only a system monitoring application.
+
+## 🤝Contributions
+Your contributions are welcome! If you find any issues or want to add enhancements, feel free to submit a pull request.
+
+## 📝License
+This project is licensed under the <a href="https://github.com/powercomp750/CoreWatch-sysmonitor/blob/main/LICENSE">MIT License</a>
 
 
