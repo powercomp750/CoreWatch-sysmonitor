@@ -38,7 +38,7 @@ Simply launch the app and get your system usage with 4 major components displayi
    ./coreWatch
    ```
 
-   After runtime, exit the application by pressing <code>q</code> key.
+   After runtime, exit the application by pressing <code>q</code> or <code>Q</code> key, both will work.
 
 ## 💻Supported Platforms
 This project is created in modified version of i3-window manager running in Ubuntu 24.04 LTS.
